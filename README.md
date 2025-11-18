@@ -1,6 +1,6 @@
 README.md
 =========
-# 📚 Phishing Dataset CSV Merger (Generated Emails)
+# 📚 Dataset CSV Merger (Generated Emails)
 
 Small utility script that takes the per-company CSV files produced by the **Phishing Email Generator** and merges them into a **single ML-ready dataset**.
 
